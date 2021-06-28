@@ -1,3 +1,5 @@
+![download](https://user-images.githubusercontent.com/27253931/123649551-823e0880-d832-11eb-958c-1749318133c4.png)
+
 # SkaeHub Python-Self-Study-Curriculum
 This is a guide into the world of sotware development. It is meant for anyone who is interested in learning about software development using Python programming language. You can choose to read specific chapters (for expereinced developers) or go through the whole course from beginning to end. This curriculum fully prepares you for the on-site bootcamp.
 
