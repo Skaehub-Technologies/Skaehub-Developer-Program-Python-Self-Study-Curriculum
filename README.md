@@ -66,3 +66,4 @@ This is a guide into the world of sotware development. It is meant for anyone wh
 - [ ] [Tools for remote work](https://x-team.com/blog/remote-work-tools-software-developers/)
 - [ ] [How to be an effective remote developer](https://www.codementor.io/learn-programming/8-tips-to-become-an-effective-remote-developer)
 
+hope you have a great time
