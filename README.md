@@ -1,5 +1,5 @@
 # SkaeHub Python-Self-Study-Curriculum
-This is a guide into the world of sotware development. It is meant for anyone who is interested in learning about software development using Python programming language. You can choose to read specific chapters (for expereinced developers) or go through the whole course from beginning to end. This curriculum fully prepares you for the on-site bootcamp.
+This is a guide into the world of software development. It is meant for anyone who is interested in learning about software development using Python programming language. You can choose to read specific chapters (for expereinced developers) or go through the whole course from beginning to end. This curriculum fully prepares you for the on-site bootcamp.
 
 ## 1. Introduction to Computer Science
 - [X] [What is Computer Science](http://interactivepython.org/courselib/static/pythonds/Introduction/WhatIsComputerScience.html)
