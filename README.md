@@ -2,11 +2,11 @@
 This is a guide into the world of sotware development. It is meant for anyone who is interested in learning about software development using Python programming language. You can choose to read specific chapters (for expereinced developers) or go through the whole course from beginning to end. This curriculum fully prepares you for the on-site bootcamp.
 
 ## 1. Introduction to Computer Science
-- [X] [What is Computer Science](http://interactivepython.org/courselib/static/pythonds/Introduction/WhatIsComputerScience.html)
+- [X] [What is Computer Science](https://code.org/files/computer_science_is_foundational.pdf)
 - [ ] [Key Computer Science concepts explained](http://carlcheo.com/compsci)
 
 ## 2. Introduction to Programming with Python
-- [ ] [What is Computer Programming?](http://interactivepython.org/courselib/static/pythonds/Introduction/WhatIsProgramming.html)
+- [ ] [What is Computer Programming?](https://code.org/files/computer_science_is_foundational.pdf)
 - [ ] [Computer Programming Overview](http://www.tutorialspoint.com/computer_programming/computer_programming_overview.htm)
 - [ ] [Introduction to the basics](http://www.tutorialspoint.com/computer_programming/computer_programming_basics.htm)
 - [ ] [Computer programming environments](http://www.tutorialspoint.com/computer_programming/computer_programming_environment.htm)
