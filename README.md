@@ -6,7 +6,7 @@ This is a guide into the world of sotware development. It is meant for anyone wh
 - [ ] [Key Computer Science concepts explained](http://carlcheo.com/compsci)
 
 ## 2. Introduction to Programming with Python
-- [ ] [What is Computer Programming?](https://code.org/files/computer_science_is_foundational.pdf)
+- [ ] [What is Computer Programming?](https://www.zdnet.com/education/computers-tech/what-is-computer-programming/)
 - [ ] [Computer Programming Overview](http://www.tutorialspoint.com/computer_programming/computer_programming_overview.htm)
 - [ ] [Introduction to the basics](http://www.tutorialspoint.com/computer_programming/computer_programming_basics.htm)
 - [ ] [Computer programming environments](http://www.tutorialspoint.com/computer_programming/computer_programming_environment.htm)
