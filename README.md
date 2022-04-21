@@ -16,6 +16,7 @@ This is a guide into the world of sotware development. It is meant for anyone wh
 ## 3. Object Oriented Programming(OOP)
 - [ ] [What is OOP?](http://teknadesigns.com/what-is-object-oriented-programming/)
 - [ ] [Introduction to Python Objects](https://www.programiz.com/python-programming/object-oriented-programming)
+- [ ] [A beginner's guide to Python OOP](https://kinsta.com/blog/python-object-oriented-programming/)
 - [ ] [Python Classes](https://realpython.com/python3-object-oriented-programming/)
 - [ ] [Inhertance in Python](https://www.digitalocean.com/community/tutorials/understanding-class-inheritance-in-python-3)
 
