@@ -32,7 +32,7 @@ This is a guide into the world of sotware development. It is meant for anyone wh
 - [ ] [Basic algorithms in Python](https://www.tutorialspoint.com/python_data_structure/python_algorithm_design.htm)
 - [ ] [Importance of algorithms](https://www.programiz.com/dsa/why-algorithms)
 - [ ] [Analysis of algorithms](https://runestone.academy/runestone/books/published/pythonds/AlgorithmAnalysis/WhatIsAlgorithmAnalysis.html)
-
+- [ ] [leetcode algorithm practice](https://leetcode.com/study-plan/algorithm/)
 
 ## 6. Recursion
 - [ ] [Introduction to recursion](https://www.topcoder.com/thrive/articles/An%20Introduction%20to%20Recursion%20Part%20One)
