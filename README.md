@@ -59,7 +59,8 @@ This is a guide into the world of sotware development. It is meant for anyone wh
 - [ ] [Git and Version Control](https://www.freecodecamp.org/news/learn-git-and-version-control-in-an-hour/)
 - [ ] [Version control with Github](https://launchschool.com/books/git/read/github)
 - [ ] [Version control best practices and conventions](https://deepsource.io/blog/git-branch-naming-conventions/)
-
+- [ ] [Git Basics - Recording Changes to the Repository](https://git-scm.com/book/id/v2/Git-Basics-Recording-Changes-to-the-Repository)
+- [ ] [Git – Difference Between Git Revert, Checkout and Reset](https://www.geeksforgeeks.org/git-difference-between-git-revert-checkout-and-reset/)
 
 ## 10. Remote Work 
 - [ ] [What is remote work?](https://www.remoteyear.com/blog/what-is-remote-work)
