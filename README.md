@@ -18,7 +18,7 @@ This is a guide into the world of sotware development. It is meant for anyone wh
 - [ ] [Introduction to Python Objects](https://www.programiz.com/python-programming/object-oriented-programming)
 - [ ] [Python Classes](https://realpython.com/python3-object-oriented-programming/)
 - [ ] [Inhertance in Python](https://www.digitalocean.com/community/tutorials/understanding-class-inheritance-in-python-3)
-
+- [ ] [Python Object Oriented Programming](https://www.programiz.com/python-programming/object-oriented-programming)
 ## 4. Data Structures
 - [ ] [Introduction to Data Structures](https://towardsdatascience.com/data-structures-algorithms-in-python-68c8dbb19c90)
 - [ ] [Importance of Data Structures](https://runestone.academy/runestone/books/published/pythonds/Introduction/WhyStudyDataStructuresandAbstractDataTypes.html)
@@ -59,7 +59,8 @@ This is a guide into the world of sotware development. It is meant for anyone wh
 - [ ] [Git and Version Control](https://www.freecodecamp.org/news/learn-git-and-version-control-in-an-hour/)
 - [ ] [Version control with Github](https://launchschool.com/books/git/read/github)
 - [ ] [Version control best practices and conventions](https://deepsource.io/blog/git-branch-naming-conventions/)
-
+- [ ] [Git Basics - Recording Changes to the Repository](https://git-scm.com/book/id/v2/Git-Basics-Recording-Changes-to-the-Repository)
+- [ ] [Git – Difference Between Git Revert, Checkout and Reset](https://www.geeksforgeeks.org/git-difference-between-git-revert-checkout-and-reset/)
 
 ## 10. Remote Work 
 - [ ] [What is remote work?](https://www.remoteyear.com/blog/what-is-remote-work)
