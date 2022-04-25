@@ -18,7 +18,7 @@ This is a guide into the world of sotware development. It is meant for anyone wh
 - [ ] [Introduction to Python Objects](https://www.programiz.com/python-programming/object-oriented-programming)
 - [ ] [Python Classes](https://realpython.com/python3-object-oriented-programming/)
 - [ ] [Inhertance in Python](https://www.digitalocean.com/community/tutorials/understanding-class-inheritance-in-python-3)
-
+- [ ] [Python Object Oriented Programming](https://www.programiz.com/python-programming/object-oriented-programming)
 ## 4. Data Structures
 - [ ] [Introduction to Data Structures](https://towardsdatascience.com/data-structures-algorithms-in-python-68c8dbb19c90)
 - [ ] [Importance of Data Structures](https://runestone.academy/runestone/books/published/pythonds/Introduction/WhyStudyDataStructuresandAbstractDataTypes.html)
